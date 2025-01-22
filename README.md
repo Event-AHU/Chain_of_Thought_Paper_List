@@ -2,6 +2,11 @@
 
 
 
+<p align="center">
+<img src="https://github.com/Event-AHU/Chain_of_Thought_Paper_List/blob/main/CoT_figure.png" width="800">
+</p>
+
+
 ### Survey and Review 
 
 * Chu, Zheng, et al. "**Navigate through enigmatic labyrinth a survey of chain of thought reasoning: Advances, frontiers and future.**" Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024.
