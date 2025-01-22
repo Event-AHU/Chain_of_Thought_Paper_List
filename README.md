@@ -4,6 +4,9 @@
 
 ### Survey and Review 
 
+* Chu, Zheng, et al. "**Navigate through enigmatic labyrinth a survey of chain of thought reasoning: Advances, frontiers and future.**" Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024.
+  [[Paper](https://aclanthology.org/2024.acl-long.65/)]
+  [[Code](https://github.com/zchuz/CoT-Reasoning-Survey)] 
 
 ### Source Code 
 
