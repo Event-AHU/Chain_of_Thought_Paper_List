@@ -13,6 +13,7 @@
 
 ### Year 2025 
 
+
 * Liu, Yuecheng, et al. "**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning.**"
   arXiv preprint arXiv:2501.10074 (2025).
   [[Paper](https://arxiv.org/pdf/2501.10074)]
@@ -23,6 +24,12 @@
 
 
 ### Year 2024 
+
+* **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**,
+  Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
+  [[Paper](https://arxiv.org/abs/2412.18925)]
+  [[Code](https://github.com/FreedomIntelligence/HuatuoGPT-o1)]
+  [[Wechat Blog](https://mp.weixin.qq.com/s/IO8k4VEuq9SuIQy71yoZ_g)] 
 
 * Feng, Guhao, et al. "**Towards revealing the mystery behind chain of thought: a theoretical perspective.**"
   Advances in Neural Information Processing Systems 36 (2024).
