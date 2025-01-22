@@ -30,6 +30,80 @@
 
 ### Year 2024 
 
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+* [[Paper]()] 
+
+
+* **Uncovering Latent Chain of Thought Vectors in Language Models**,
+  Jason Zhang, Scott Viteri
+  [[Paper](https://arxiv.org/abs/2409.14026)] 
+
+* **Exploring Defeasible Reasoning in Large Language Models: A Chain-of-Thought Approach**,
+  Zhaoqun Lia, Chen Chena and Beishui Liaoa,
+  [[Paper](https://collegepublications.co.uk/downloads/LNGAI00004.pdf#page=136)] 
+
+* **MasonTigers at SemEval-2024 Task 9: Solving Puzzles with an Ensemble of Chain-of-Thoughts**, 
+  Md Nishat Raihan, Dhiman Goswami, Al Nahian Bin Emran, Sadiya Sayara Chowdhury Puspo, Amrita Ganguly, Marcos Zampieri
+  [[Paper](https://arxiv.org/abs/2403.14982)] 
+
+* **NLPeople at TextGraphs-17 Shared Task: Chain of Thought Questioning to Elicit Decompositional Reasoning**,
+  Movina Moses, Vishnudev Kuruvanthodi, Mohab Elkaref, Shinnosuke Tanaka, James Barry, Geeth Mel, Campbell Watson
+  [[Paper](https://aclanthology.org/2024.textgraphs-1.13.pdf)]  
+
+* K. Hu et al., "**Ladder-of-Thought: Using Knowledge as Steps to Elevate Stance Detection,**" 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, 2024, pp. 1-8, doi: 10.1109/IJCNN60899.2024.10650428.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10650428)] 
+
+* **Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models**,
+  Haritz Puerto, Tilek Chubakov, Xiaodan Zhu, Harish Tayyar Madabushi, Iryna Gurevych
+  [[Paper](https://openreview.net/forum?id=u4whlT6xKO)] 
+  
 * **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**,
   Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
   [[Paper](https://arxiv.org/abs/2412.18925)]
