@@ -14,6 +14,12 @@
 ### Year 2025 
 
 
+* 
+
+* Liu, Yuecheng, et al. "**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning.**"
+  arXiv preprint arXiv:2501.10074 (2025).
+  [[Paper](https://arxiv.org/pdf/2501.10074)]
+
 * Thawakar, Omkar, et al. "**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.**" arXiv preprint arXiv:2501.06186 (2025).
   [[Paper](https://arxiv.org/abs/2501.06186)]
 
