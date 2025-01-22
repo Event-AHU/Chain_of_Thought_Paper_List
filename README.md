@@ -27,9 +27,9 @@
 * Yin, Han, et al. "**Answering Spatial Commonsense Questions Based on Chain-of-Thought Reasoning with Adaptive Complexity.**" Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data. Singapore: Springer Nature Singapore, 2024.
   [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-7232-2_13)]
 
-* Hu, H., Lu, H., Zhang, H., Song, Y. Z., Lam, W., & Zhang, Y. **Chain-of-Symbol Prompting for Spatial Relationships in Large Language Models**.
-  [[Paper](https://openreview.net/pdf?id=B0wJ5oCPdB)]
-
+* Hu, H., Lu, H., Zhang, H., Song, Y. Z., Lam, W., & Zhang, Y. **Chain-of-Symbol Prompting for Spatial Relationships in Large Language Models**. COLM 2024 
+  [[Paper](https://openreview.net/pdf?id=Hvq9RtSoHG)]
+  [[Code](https://github.com/hanxuhu/chain-of-symbol-planning)]
 
 ### Year 2023 
 * Wang, Keheng, et al. "**Knowledge-driven cot: Exploring faithful reasoning in llms for knowledge-intensive question answering.**"
