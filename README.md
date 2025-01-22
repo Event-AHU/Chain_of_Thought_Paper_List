@@ -13,9 +13,6 @@
 
 ### Year 2025 
 
-
-* 
-
 * Liu, Yuecheng, et al. "**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning.**"
   arXiv preprint arXiv:2501.10074 (2025).
   [[Paper](https://arxiv.org/pdf/2501.10074)]
@@ -26,6 +23,11 @@
 
 
 ### Year 2024 
+
+* Feng, Guhao, et al. "**Towards revealing the mystery behind chain of thought: a theoretical perspective.**"
+  Advances in Neural Information Processing Systems 36 (2024).
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dfc310e81992d2e4cedc09ac47eff13e-Abstract-Conference.html)]
+
 * He, Liqi, et al. "**Multi-modal latent space learning for chain-of-thought reasoning in language models.**"
   Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 16. 2024.
   [[Paper](https://arxiv.org/abs/2501.06186)]
@@ -37,7 +39,13 @@
   [[Paper](https://openreview.net/pdf?id=Hvq9RtSoHG)]
   [[Code](https://github.com/hanxuhu/chain-of-symbol-planning)]
 
+
+
+
 ### Year 2023 
 * Wang, Keheng, et al. "**Knowledge-driven cot: Exploring faithful reasoning in llms for knowledge-intensive question answering.**"
   arXiv preprint arXiv:2308.13259 (2023).
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29776)]
+
+
+  
