@@ -24,7 +24,8 @@
   arXiv preprint arXiv:2308.13259 (2023).
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29776)]
 
-* 
+* Hu, H., Lu, H., Zhang, H., Song, Y. Z., Lam, W., & Zhang, Y. **Chain-of-Symbol Prompting for Spatial Relationships in Large Language Models**.
+  [[Paper](https://openreview.net/pdf?id=B0wJ5oCPdB)]
 
 
 ### Year 2024 
