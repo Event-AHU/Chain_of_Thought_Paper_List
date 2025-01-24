@@ -133,7 +133,7 @@
 * **Multimodal Chain-of-Thought Reasoning in Language Models**.
   Zhang, Z.; Zhang, A.; Li, M.; Zhao, H.; Karypis, G.; and Smola.
   [[Paper](https://arxiv.org/abs/2302.00923)]
-  [[Code]]([https://github.com/hanxuhu/chain-of-symbol-planning](https://github.com/amazon-science/mm-cot))]
+  [[Code]](https://github.com/amazon-science/mm-cot)
   
 * Wang, Keheng, et al. "**Knowledge-driven cot: Exploring faithful reasoning in llms for knowledge-intensive question answering.**"
   arXiv preprint arXiv:2308.13259 (2023).
