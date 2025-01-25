@@ -27,8 +27,11 @@
   [[Paper](https://arxiv.org/abs/2501.06186)]
 
 
-
 ### Year 2024 
+
+* [arXiv:2412.06769] **Training Large Language Models to Reason in a Continuous Latent Space**, 
+  Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian
+  [[Paper](https://arxiv.org/abs/2412.06769)]
 
 * [[Paper]()] 
 
