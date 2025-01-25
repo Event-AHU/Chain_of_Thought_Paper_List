@@ -18,6 +18,9 @@
 
 ### Year 2025 
 
+* **Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step**, ZiyuGuo∗1,RenruiZhang∗†2,ChengzhuoTong∗4,ZhizhengZhao∗3 PengGao4,HongshengLi‡2,Pheng-AnnHeng‡ 
+  [[Paper](https://arxiv.org/pdf/2501.13926)]
+  [[Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)] 
 
 * Liu, Yuecheng, et al. "**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning.**"
   arXiv preprint arXiv:2501.10074 (2025).
