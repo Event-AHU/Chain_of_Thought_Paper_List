@@ -145,5 +145,21 @@
   arXiv preprint arXiv:2308.13259 (2023).
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29776)]
 
+### Year 2022
+* [ICLR 2023]**Self-Consistency Improves Chain of Thought Reasoning in Language Models**
+  Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
+  [[Paper](https://arxiv.org/abs/2203.11171)]
+
+* **Automatic Chain of Thought Prompting in Large Language Models**
+  Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola
+  [[Paper](https://arxiv.org/abs/2210.03493)]
+
+* [NeurIPS 2022]**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**
+  Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan
+  [[Paper](https://arxiv.org/abs/2209.09513)]
+
+* **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**
+  Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
+  [[Paper](https://arxiv.org/abs/2201.11903)]
 
   
