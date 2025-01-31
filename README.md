@@ -74,17 +74,15 @@
 
 * [[Paper]()] 
 
-* [[Paper]()] 
+* [AAAI 2024] **T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Mixed Large Language Model Signals for Science Question Answering**
+  Lei Wang, Yi Hu, Jiabang He, Xing Xu, Ning Liu, Hui Liu, Heng Tao Shen
+  [[Paper](https://arxiv.org/abs/2305.03453)]
+  [[Code](https://github.com/T-SciQ/T-SciQ)]
 
-* [[Paper]()] 
-
-* [[Paper]()] 
-
-* [[Paper]()] 
-
-* [ECCV 2024]**Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training**
+* [ECCV 2024] **Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training**
   Cheng Tan, Jingxuan Wei, Zhangyang Gao, Linzhuang Sun, Siyuan Li, Ruifeng Guo, Bihui Yu, Stan Z. Li
-  [[Paper](https://arxiv.org/abs/2311.14109)] 
+  [[Paper](https://arxiv.org/abs/2311.14109)]
+  [[Code](https://github.com/chengtan9907/mc-cot)]
 
 * **KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**
   Debjyoti Mondal, Suraj Modi, Subhadarshi Panda, Rituraj Singh, Godawari Sudhakar Rao
@@ -139,15 +137,6 @@
 
 
 ### Year 2023 
-* [AAAI 2024] **T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Mixed Large Language Model Signals for Science Question Answering**
-  Lei Wang, Yi Hu, Jiabang He, Xing Xu, Ning Liu, Hui Liu, Heng Tao Shen
-  [[Paper](https://arxiv.org/abs/2305.03453)]
-  [[Code](https://github.com/T-SciQ/T-SciQ)]
-
-* [ECCV 2024] **Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training**
-  Cheng Tan, Jingxuan Wei, Zhangyang Gao, Linzhuang Sun, Siyuan Li, Ruifeng Guo, Bihui Yu, Stan Z. Li
-  [[Paper](https://arxiv.org/abs/2311.14109)]
-  [[Code](https://github.com/chengtan9907/mc-cot)]
 
 * **Multimodal Chain-of-Thought Reasoning in Language Models**.
   Zhang, Z.; Zhang, A.; Li, M.; Zhao, H.; Karypis, G.; and Smola.
@@ -158,10 +147,11 @@
   arXiv preprint arXiv:2308.13259 (2023).
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29776)]
 
-### Year 2022
-* [ICLR 2023]**Self-Consistency Improves Chain of Thought Reasoning in Language Models**
+  * [ICLR 2023]**Self-Consistency Improves Chain of Thought Reasoning in Language Models**
   Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
   [[Paper](https://arxiv.org/abs/2203.11171)]
+
+### Year 2022
 
 * **Automatic Chain of Thought Prompting in Large Language Models**
   Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola
