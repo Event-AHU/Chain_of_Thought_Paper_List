@@ -122,7 +122,7 @@
 
 * He, Liqi, et al. "**Multi-modal latent space learning for chain-of-thought reasoning in language models.**"
   Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 16. 2024.
-  [[Paper](https://arxiv.org/abs/2501.06186)]
+  [[Paper](http://arxiv.org/abs/2312.08762)]
   [[Code]](https://github.com/shimurenhlq/DPMM-COT)
 
 * Yin, Han, et al. "**Answering Spatial Commonsense Questions Based on Chain-of-Thought Reasoning with Adaptive Complexity.**" Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data. Singapore: Springer Nature Singapore, 2024.
@@ -134,8 +134,12 @@
 
 
 
-
 ### Year 2023 
+* [ECCV 2024] **Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training**
+  Cheng Tan, Jingxuan Wei, Zhangyang Gao, Linzhuang Sun, Siyuan Li, Ruifeng Guo, Bihui Yu, Stan Z. Li
+  [[Paper](https://arxiv.org/abs/2311.14109)]
+  [[Code](https://github.com/chengtan9907/mc-cot)]
+
 * **Multimodal Chain-of-Thought Reasoning in Language Models**.
   Zhang, Z.; Zhang, A.; Li, M.; Zhao, H.; Karypis, G.; and Smola.
   [[Paper](https://arxiv.org/abs/2302.00923)]
