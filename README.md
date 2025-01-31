@@ -147,7 +147,7 @@
   arXiv preprint arXiv:2308.13259 (2023).
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29776)]
 
-  * [ICLR 2023]**Self-Consistency Improves Chain of Thought Reasoning in Language Models**
+* [ICLR 2023]**Self-Consistency Improves Chain of Thought Reasoning in Language Models**
   Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
   [[Paper](https://arxiv.org/abs/2203.11171)]
 
