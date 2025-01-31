@@ -82,7 +82,9 @@
 
 * [[Paper]()] 
 
-* [[Paper]()] 
+* [ECCV 2024]**Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training**
+  Cheng Tan, Jingxuan Wei, Zhangyang Gao, Linzhuang Sun, Siyuan Li, Ruifeng Guo, Bihui Yu, Stan Z. Li
+  [[Paper](https://arxiv.org/abs/2311.14109)] 
 
 * **KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**
   Debjyoti Mondal, Suraj Modi, Subhadarshi Panda, Rituraj Singh, Godawari Sudhakar Rao
