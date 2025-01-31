@@ -157,6 +157,8 @@
 * [NeurIPS 2022]**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**
   Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, Ashwin Kalyan
   [[Paper](https://arxiv.org/abs/2209.09513)]
+  [[Code](https://github.com/lupantech/ScienceQA?tab=readme-ov-file)]
+  [[Leaderboard](https://scienceqa.github.io/leaderboard.html)]
 
 * **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**
   Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou
