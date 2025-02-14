@@ -21,13 +21,28 @@
 
 
 ### Year 2025 
-
-
+  
+  
+* **Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**, 
+  Tushar Pandey, Ara Ghukasyan, Oktay Goktas, Santosh Kumar Radha
+  [[Paper](https://arxiv.org/abs/2502.05078)]
+  
+* **CoT-Valve: Length-Compressible Chain-of-Thought Tuning**, 
+  Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang
+  [[Paper](https://arxiv.org/abs/2502.09601)]
+  [[Code](https://github.com/horseee/CoT-Valve)] 
+  
+* **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**, 
+  Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanwei Li, Yu Qi, Xinyan Chen, Liuhui Wang, Jianhan Jin, Claire Guo, Shen Yan, Bo Zhang, Chaoyou Fu, Peng Gao, Hongsheng Li
+  [[Paper](https://arxiv.org/abs/2502.09621)]
+  [[Project Page](https://mmecot.github.io/)] 
+  
 * [arXiv:2502.06428] **CoS: Chain-of-Shot Prompting for Long Video Understanding**, 
   Jian Hu, Zixu Cheng, Chenyang Si, Wei Li, Shaogang Gong
   [[Paper](https://arxiv.org/abs/2502.06428)]
   
-* **Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step**, ZiyuGuo∗1,RenruiZhang∗†2,ChengzhuoTong∗4,ZhizhengZhao∗3 PengGao4,HongshengLi‡2,Pheng-AnnHeng‡ 
+* **Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step**,
+  ZiyuGuo∗1,RenruiZhang∗†2,ChengzhuoTong∗4,ZhizhengZhao∗3 PengGao4,HongshengLi‡2,Pheng-AnnHeng‡ 
   [[Paper](https://arxiv.org/pdf/2501.13926)]
   [[Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)] 
   
@@ -38,7 +53,7 @@
 * Thawakar, Omkar, et al. "**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.**" arXiv preprint arXiv:2501.06186 (2025).
   [[Paper](https://arxiv.org/abs/2501.06186)]
   
-
+  
 ### Year 2024 
 
 * [arXiv:2412.06769] **Training Large Language Models to Reason in a Continuous Latent Space**, 
