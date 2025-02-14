@@ -11,7 +11,14 @@
 
 * Chu, Zheng, et al. "**Navigate through enigmatic labyrinth a survey of chain of thought reasoning: Advances, frontiers and future.**" Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024.
   [[Paper](https://aclanthology.org/2024.acl-long.65/)]
-  [[Code](https://github.com/zchuz/CoT-Reasoning-Survey)] 
+  [[Code](https://github.com/zchuz/CoT-Reasoning-Survey)]
+
+* **Logical Reasoning in Large Language Models: A Survey**,
+  Hanmeng Liu, Zhizhang Fu, Mengru Ding, Ruoxi Ning, Chaoli Zhang, Xiaozhang Liu, Yue Zhang
+  [[Paper](https://arxiv.org/abs/2502.09100)]
+
+
+
 
 ### Source Code 
 
