@@ -16,19 +16,28 @@
 ### Source Code 
 
 
+
+
+
+
 ### Year 2025 
 
+
+* [arXiv:2502.06428] **CoS: Chain-of-Shot Prompting for Long Video Understanding**, 
+  Jian Hu, Zixu Cheng, Chenyang Si, Wei Li, Shaogang Gong
+  [[Paper](https://arxiv.org/abs/2502.06428)]
+  
 * **Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step**, ZiyuGuo∗1,RenruiZhang∗†2,ChengzhuoTong∗4,ZhizhengZhao∗3 PengGao4,HongshengLi‡2,Pheng-AnnHeng‡ 
   [[Paper](https://arxiv.org/pdf/2501.13926)]
   [[Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)] 
-
+  
 * Liu, Yuecheng, et al. "**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning.**"
   arXiv preprint arXiv:2501.10074 (2025).
   [[Paper](https://arxiv.org/pdf/2501.10074)]
-
+  
 * Thawakar, Omkar, et al. "**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.**" arXiv preprint arXiv:2501.06186 (2025).
   [[Paper](https://arxiv.org/abs/2501.06186)]
-
+  
 
 ### Year 2024 
 
