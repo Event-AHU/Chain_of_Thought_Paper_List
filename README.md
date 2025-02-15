@@ -28,7 +28,12 @@
 
 
 ### Year 2025 
-  
+
+
+* **ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**,
+  Ling Yang, Zhaochen Yu, Bin Cui, Mengdi Wang
+  [[Paper](https://arxiv.org/abs/2502.06772)]
+  [[Code](https://github.com/Gen-Verse/ReasonFlux)]
   
 * **Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**, 
   Tushar Pandey, Ara Ghukasyan, Oktay Goktas, Santosh Kumar Radha
