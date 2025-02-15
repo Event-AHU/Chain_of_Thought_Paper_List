@@ -30,6 +30,11 @@
 ### Year 2025 
 
 
+* **On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**,
+  Guanghao Ye, Khiem Duc Pham, Xinzhi Zhang, Sivakanth Gopi, Baolin Peng, Beibin Li, Janardhan Kulkarni, Huseyin A. Inan
+  [[Paper](https://arxiv.org/abs/2502.06773)]
+  [[Code](https://github.com/GuanghaoYe/Emergence-of-Thinking)] 
+  
 * **ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**,
   Ling Yang, Zhaochen Yu, Bin Cui, Mengdi Wang
   [[Paper](https://arxiv.org/abs/2502.06772)]
