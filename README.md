@@ -30,6 +30,13 @@
 ### Year 2025 
 
 
+
+
+* **Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance**,
+  Lingfei Qian, Weipeng Zhou, Yan Wang, Xueqing Peng, Jimin Huang, Qianqian Xie
+  [[Paper](https://arxiv.org/abs/2502.08127)] 
+  [[Code](https://github.com/The-FinAI/Fino1)] 
+  
 * **LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM**, 
   Zhi Zhou, Kun-Yang Yu, Shi-Yu Tian, Xiao-Wen Yang, Jiang-Xin Shi, Pengxiao Song, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li
   [[Paper](https://arxiv.org/abs/2502.06572)]
