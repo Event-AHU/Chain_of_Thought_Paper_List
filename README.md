@@ -30,6 +30,11 @@
 ### Year 2025 
 
 
+* **LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM**, 
+  Zhi Zhou, Kun-Yang Yu, Shi-Yu Tian, Xiao-Wen Yang, Jiang-Xin Shi, Pengxiao Song, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li
+  [[Paper](https://arxiv.org/abs/2502.06572)]
+  [[Code](https://github.com/LAMDASZ-ML/Knowledge-Guide-Data-Generation)]
+  
 * **On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**,
   Guanghao Ye, Khiem Duc Pham, Xinzhi Zhang, Sivakanth Gopi, Baolin Peng, Beibin Li, Janardhan Kulkarni, Huseyin A. Inan
   [[Paper](https://arxiv.org/abs/2502.06773)]
