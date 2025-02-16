@@ -30,6 +30,11 @@
 ### Year 2025 
 
 
+* **Unveiling the Mechanisms of Explicit CoT Training: How Chain-of-Thought Enhances Reasoning Generalization**,
+  Xinhao Yao, Ruifeng Ren, Yun Liao, Yong Liu
+  [[Paper](https://arxiv.org/abs/2502.04667)]
+  [[Code](https://github.com/chen123CtrlS/TCotMechanism)]
+  
 * **Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**,
   Junde Wu, Jiayuan Zhu, Yuyuan Liu
   [[Paper](https://arxiv.org/abs/2502.04644)]
