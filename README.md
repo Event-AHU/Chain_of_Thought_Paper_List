@@ -30,6 +30,10 @@
 ### Year 2025 
 
 
+* **JingFang: A Traditional Chinese Medicine Large Language Model of Expert-Level Medical Diagnosis and Syndrome Differentiation-Based Treatment**,
+  Yehan Yan, Tianhao Ma, Ruotai Li, Xinhan Zheng, Guodong Shan, Chisheng Li
+  [[Paper](https://arxiv.org/abs/2502.04345)] 
+  
 * **Unveiling the Mechanisms of Explicit CoT Training: How Chain-of-Thought Enhances Reasoning Generalization**,
   Xinhao Yao, Ruifeng Ren, Yun Liao, Yong Liu
   [[Paper](https://arxiv.org/abs/2502.04667)]
