@@ -30,8 +30,10 @@
 ### Year 2025 
 
 
-
-
+* **Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**,
+  Junde Wu, Jiayuan Zhu, Yuyuan Liu
+  [[Paper](https://arxiv.org/abs/2502.04644)]
+  
 * **Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance**,
   Lingfei Qian, Weipeng Zhou, Yan Wang, Xueqing Peng, Jimin Huang, Qianqian Xie
   [[Paper](https://arxiv.org/abs/2502.08127)] 
@@ -82,6 +84,11 @@
 * Thawakar, Omkar, et al. "**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.**" arXiv preprint arXiv:2501.06186 (2025).
   [[Paper](https://arxiv.org/abs/2501.06186)]
   
+
+
+
+
+
   
 ### Year 2024 
 
