@@ -30,6 +30,11 @@
 ### Year 2025 
 
 
+
+* **A Comparison of DeepSeek and Other LLMs**,
+  Tianchen Gao, Jiashun Jin, Zheng Tracy Ke, Gabriel Moryoussef
+  [[Paper](https://arxiv.org/abs/2502.03688)]
+  
 * **JingFang: A Traditional Chinese Medicine Large Language Model of Expert-Level Medical Diagnosis and Syndrome Differentiation-Based Treatment**,
   Yehan Yan, Tianhao Ma, Ruotai Li, Xinhan Zheng, Guodong Shan, Chisheng Li
   [[Paper](https://arxiv.org/abs/2502.04345)] 
