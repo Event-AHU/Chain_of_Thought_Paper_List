@@ -30,7 +30,11 @@
 ### Year 2025 
 
 
-
+* **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step**,
+  Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan
+  [[Paper](https://arxiv.org/abs/2411.10440v2)]
+  [[Code](https://github.com/PKU-YuanGroup/LLaVA-CoT)]
+  
 * **A Comparison of DeepSeek and Other LLMs**,
   Tianchen Gao, Jiashun Jin, Zheng Tracy Ke, Gabriel Moryoussef
   [[Paper](https://arxiv.org/abs/2502.03688)]
