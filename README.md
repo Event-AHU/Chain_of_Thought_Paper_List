@@ -17,6 +17,11 @@
   Hanmeng Liu, Zhizhang Fu, Mengru Ding, Ruoxi Ning, Chaoli Zhang, Xiaozhang Liu, Yue Zhang
   [[Paper](https://arxiv.org/abs/2502.09100)]
 
+* **From System 1 to System 2: A Survey of Reasoning Large Language Models**,
+  Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhijiang Guo, Le Song, Cheng-Lin Liu
+  [[Paper](https://arxiv.org/abs/2502.17419)]
+
+* 
 
 
 
