@@ -21,8 +21,14 @@
   Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhijiang Guo, Le Song, Cheng-Lin Liu
   [[Paper](https://arxiv.org/abs/2502.17419)]
 
-* 
 
+
+
+### Video Tutorial 
+
+* **Chain of Thought论文、代码和资源【论文精读】** [[Youtube](https://youtu.be/H4J59iG3t5o?si=Fina_36yW49O5r_Z)]
+
+* 
 
 
 ### Source Code 
