@@ -26,7 +26,7 @@
 
 ### Video Tutorial 
 
-* **Chain of Thought论文、代码和资源【论文精读】** [[Youtube](https://youtu.be/H4J59iG3t5o?si=Fina_36yW49O5r_Z)]
+* **Chain of Thought论文、代码和资源【论文精读】** [[Youtube-跟李沐学AI](https://youtu.be/H4J59iG3t5o?si=Fina_36yW49O5r_Z)]
 
 * 
 
