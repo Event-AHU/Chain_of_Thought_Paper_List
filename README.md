@@ -41,6 +41,11 @@
 ### Year 2025 
 
 
+* **S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning**，
+  Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, Jiaqi Chen, Bang Zhang, Xin Zhou, Nan Du, Jia Li
+  [[Paper](https://www.arxiv.org/abs/2502.12853)]
+  [[Code](https://github.com/NineAbyss/S2R)]
+  
 * **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step**,
   Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan
   [[Paper](https://arxiv.org/abs/2411.10440v2)]
