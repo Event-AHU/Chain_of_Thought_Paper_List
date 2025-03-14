@@ -21,6 +21,10 @@
   Zhong-Zhi Li, Duzhen Zhang, Ming-Liang Zhang, Jiaxin Zhang, Zengyan Liu, Yuxuan Yao, Haotian Xu, Junhao Zheng, Pei-Jie Wang, Xiuyi Chen, Yingying Zhang, Fei Yin, Jiahua Dong, Zhijiang Guo, Le Song, Cheng-Lin Liu
   [[Paper](https://arxiv.org/abs/2502.17419)]
 
+* **Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**，
+  Qiguang Chen, Libo Qin, Jinhao Liu, Dengyun Peng, Jiannan Guan, Peng Wang, Mengkang Hu, Yuhang Zhou, Te Gao, Wanxiang Che
+  [[Paper](https://arxiv.org/abs/2503.09567)]
+  [[Code](https://long-cot.github.io/)] 
 
 
 
