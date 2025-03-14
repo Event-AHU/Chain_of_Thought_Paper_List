@@ -26,6 +26,8 @@
   [[Paper](https://arxiv.org/abs/2503.09567)]
   [[Code](https://long-cot.github.io/)] 
 
+* Wang G, Zhang S, Zhan T, et al. **Unlocking the Mysteries of OpenAI o1: A Survey of the Reasoning Abilities of Large Language Models**[J].
+  [[Paper](https://openreview.net/pdf?id=J0ADLa2rNp)]
 
 
 ### Video Tutorial 
