@@ -47,6 +47,10 @@
 ### Year 2025 
 
 
+* **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**,
+  Bowen Jin, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han
+  [[Paper](https://arxiv.org/abs/2503.09516)] 
+  
 * **S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning**，
   Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, Jiaqi Chen, Bang Zhang, Xin Zhou, Nan Du, Jia Li
   [[Paper](https://www.arxiv.org/abs/2502.12853)]
