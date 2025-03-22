@@ -29,6 +29,11 @@
 * Wang G, Zhang S, Zhan T, et al. **Unlocking the Mysteries of OpenAI o1: A Survey of the Reasoning Abilities of Large Language Models**[J].
   [[Paper](https://openreview.net/pdf?id=J0ADLa2rNp)]
 
+* **Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**,
+  Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei
+  [[Paper](https://arxiv.org/abs/2503.12605)]
+  [[Github](https://github.com/yaotingwangofficial/Awesome-MCoT)] 
+  
 
 ### Video Tutorial 
 
@@ -45,6 +50,7 @@
 
 
 ### Year 2025 
+
 
 
 * **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**,
