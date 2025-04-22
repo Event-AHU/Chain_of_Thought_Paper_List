@@ -9,6 +9,10 @@
 
 ### Survey and Review 
 
+
+* Marjanović, Sara Vera, et al. "**DeepSeek-R1 Thoughtology: Let's< think> about LLM Reasoning.**" arXiv preprint arXiv:2504.07128 (2025).
+  [[Paper](https://arxiv.org/pdf/2504.07128)] 
+
 * Chu, Zheng, et al. "**Navigate through enigmatic labyrinth a survey of chain of thought reasoning: Advances, frontiers and future.**" Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024.
   [[Paper](https://aclanthology.org/2024.acl-long.65/)]
   [[Code](https://github.com/zchuz/CoT-Reasoning-Survey)]
