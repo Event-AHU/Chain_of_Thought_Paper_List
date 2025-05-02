@@ -55,11 +55,16 @@
 
 ### Year 2025 
 
+
+* **ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**,
+  Ziqing Fan, Cheng Liang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, Weidi Xie
+  [[Paper](https://arxiv.org/abs/2504.20930)]
+  [[Code](https://github.com/LiangChengBupt/ChesX-Reasoner)]
+  
 * **T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**
   [[Paper](https://arxiv.org/pdf/2505.00703)]
   [[Code](https://github.com/CaraJ7/T2I-R1)] 
    
-
 * **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**,
   Bowen Jin, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han
   [[Paper](https://arxiv.org/abs/2503.09516)] 
