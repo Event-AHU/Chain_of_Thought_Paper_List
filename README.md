@@ -55,7 +55,10 @@
 
 ### Year 2025 
 
-
+* **T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**
+  [[Paper](https://arxiv.org/pdf/2505.00703)]
+  [[Code](https://github.com/CaraJ7/T2I-R1)] 
+   
 
 * **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**,
   Bowen Jin, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han
