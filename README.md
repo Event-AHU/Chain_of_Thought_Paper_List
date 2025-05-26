@@ -56,6 +56,10 @@
 ### Year 2025 
 
 
+* [arXiv:2505.14362] **DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning**,
+  Ziwei Zheng, Michael Yang, Jack Hong, Chenxiao Zhao, Guohai Xu, Le Yang, Chao Shen, Xing Yu
+  [[Paper](https://arxiv.org/abs/2505.14362)]
+  
 * **Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**,
   Jiaer Xia, Yuhang Zang, Peng Gao, Yixuan Li, Kaiyang Zhou
   [[Paper](https://arxiv.org/abs/2505.14677)]
