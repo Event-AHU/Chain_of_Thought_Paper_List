@@ -55,7 +55,11 @@
 
 ### Year 2025 
 
-  
+
+* **Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**,
+  Jiaer Xia, Yuhang Zang, Peng Gao, Yixuan Li, Kaiyang Zhou
+  [[Paper](https://arxiv.org/abs/2505.14677)]
+   
 * **ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**,
   Ziqing Fan, Cheng Liang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, Weidi Xie
   [[Paper](https://arxiv.org/abs/2504.20930)]
